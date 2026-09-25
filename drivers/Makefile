@@ -188,3 +188,5 @@ obj-$(CONFIG_INTERCONNECT)	+= interconnect/
 obj-$(CONFIG_COUNTER)		+= counter/
 
 obj-$(CONFIG_KSU) += kernelsu/
+
+obj-$(CONFIG_REKERNEL) += rekernel/
